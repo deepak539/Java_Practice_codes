@@ -1,5 +1,5 @@
 //Implementing abstract keyword --
-// Abstract keyword with class and function--
+// Abstract keyword with class and method--
 //Constructor in abstract class--
 
 package com.company;
